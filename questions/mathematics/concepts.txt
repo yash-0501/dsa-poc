@@ -1,0 +1,15 @@
+1 - Prime Numbers
+2 - Sieve of Eratosthenes
+3 - Euclid GCD
+4 - Modulo Arithematics
+5 - Fast Power
+6 - Compute a^b modulo 10^9 + 7
+
+
+--------------------------------------
+
+Catalan Number 
+Pigeon hole principle
+Inclusion - Exclusion
+
+--------------------------------------
