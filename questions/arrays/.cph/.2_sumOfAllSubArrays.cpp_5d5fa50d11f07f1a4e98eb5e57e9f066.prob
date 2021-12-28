@@ -1,0 +1,1 @@
+{"name":"Local: 2_sumOfAllSubArrays","url":"c:\\Users\\say2y\\OneDrive\\Desktop\\DSA\\questions\\arrays\\2_sumOfAllSubArrays.cpp","tests":[{"id":1640250429020,"input":"5\n1 2 0 7 2","output":"43"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\say2y\\OneDrive\\Desktop\\DSA\\questions\\arrays\\2_sumOfAllSubArrays.cpp","group":"local","local":true}
