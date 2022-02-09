@@ -1,0 +1,5 @@
+It is an algorithmic technique for solving recursive
+problems by tring to build every possible solution 
+incrementally and removing those solutions that fails 
+to statisfy the constraints of any problem at any point 
+of time.
