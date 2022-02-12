@@ -73,14 +73,14 @@ int main()
     //case conversion
     //to upercase
     string A1 = "hfbahjhahkdjs";
-    for(int =0;i<A1.size();i++){
+    for(int i=0;i<A1.size();i++){
         if(A1[i]>='a' && A1[i]<='z')
             A1[i]-=32;
     }
     cout<<A1<<endl;
 
     //to lowercase
-    for(int =0;i<A1.size();i++){
+    for(int i=0;i<A1.size();i++){
         if(A1[i]>='A' && A1[i]<='Z')
             A1[i]+=32;
     }
