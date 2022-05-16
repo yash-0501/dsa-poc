@@ -1,7 +1,5 @@
-// An element in a sorted array can be found in O(log n) time via binary search.
-// But suppose we rotate an ascending order sorted array at some pivot
-// unknown to you beforehand. So for instance, 1 2 3 4 5 might become 3 4 5 1 2.
-// Devise a way to find an element in the rotated array in O(log n) time.
+// Given the array nums after the possible rotation and an integer target,
+// return the index of target if it is in nums, or -1 if it is not in nums.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -39,16 +37,8 @@ int find(vector<int> &a, int key)
 
 int main()
 {
-    int n, key;
-    cin >> n;
-    vector<int> nums;
-    for (int i = 0; i < n; i++)
-    {
-        int a;
-        cin >> a;
-        nums.push_back(a);
-    }
-    cin >> key;
-    cout << find(nums, key);
+    vector<int> a{1};
+    int target = 0;
+    cout << find(a, target);
     return 0;
 }
